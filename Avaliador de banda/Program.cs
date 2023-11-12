@@ -1,5 +1,4 @@
 ﻿//Screem Sound
-//List<String> ListaDasBandas = new List<string> ();
 
 using System.Net.Http.Headers;
 using System.Runtime.CompilerServices;
