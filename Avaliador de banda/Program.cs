@@ -146,7 +146,7 @@ void MediaNotaBanda(){
 
     if (bandasRegistradas.ContainsKey(bandaEscolhida)){
 
-        double mediaNota = Queryable.Average(bandasRegistradas[bandaEscolhida].AsQueryable());
+        double mediaNota = bandasRegistradas[bandaEscolhida].Average();
         Console.WriteLine($"A media de notas da {bandaEscolhida} é de {mediaNota}");
         Console.Clear();
         Thread.Sleep(4000);
