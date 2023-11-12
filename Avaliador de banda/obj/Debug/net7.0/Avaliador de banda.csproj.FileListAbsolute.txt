@@ -1,0 +1,14 @@
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Registro-e-avaliacoes-de-banda\Avaliador de banda\bin\Debug\net7.0\Avaliador de banda.exe
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Registro-e-avaliacoes-de-banda\Avaliador de banda\bin\Debug\net7.0\Avaliador de banda.deps.json
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Registro-e-avaliacoes-de-banda\Avaliador de banda\bin\Debug\net7.0\Avaliador de banda.runtimeconfig.json
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Registro-e-avaliacoes-de-banda\Avaliador de banda\bin\Debug\net7.0\Avaliador de banda.dll
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Registro-e-avaliacoes-de-banda\Avaliador de banda\bin\Debug\net7.0\Avaliador de banda.pdb
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Registro-e-avaliacoes-de-banda\Avaliador de banda\obj\Debug\net7.0\Avaliador de banda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Registro-e-avaliacoes-de-banda\Avaliador de banda\obj\Debug\net7.0\Avaliador de banda.AssemblyInfoInputs.cache
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Registro-e-avaliacoes-de-banda\Avaliador de banda\obj\Debug\net7.0\Avaliador de banda.AssemblyInfo.cs
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Registro-e-avaliacoes-de-banda\Avaliador de banda\obj\Debug\net7.0\Avaliador de banda.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Registro-e-avaliacoes-de-banda\Avaliador de banda\obj\Debug\net7.0\Avaliador de banda.dll
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Registro-e-avaliacoes-de-banda\Avaliador de banda\obj\Debug\net7.0\refint\Avaliador de banda.dll
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Registro-e-avaliacoes-de-banda\Avaliador de banda\obj\Debug\net7.0\Avaliador de banda.pdb
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Registro-e-avaliacoes-de-banda\Avaliador de banda\obj\Debug\net7.0\Avaliador de banda.genruntimeconfig.cache
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Registro-e-avaliacoes-de-banda\Avaliador de banda\obj\Debug\net7.0\ref\Avaliador de banda.dll
