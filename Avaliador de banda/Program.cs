@@ -171,3 +171,14 @@ void FecharPrograma()
 }
 
 ExibirOpcoesDoMenu();
+
+
+
+Musica musica1 = new Musica();
+
+musica1.nome = "roxane";
+musica1.artista = "The police";
+
+Musica musica2 = new Musica();
+musica2.nome = "vertigo";
+musica2.artista = "u2";
